@@ -1,5 +1,5 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Aboreto&size=41&duration=3009&pause=1000&color=000000&center=true&vCenter=true&width=1080&height=320&lines=Jo%C3%A3o+Costeira)](https://git.io/typing-svg)
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Aboreto&size=41&duration=3009&pause=1000&color=000000&center=true&vCenter=true&width=1080&height=320&lines=Jo%C3%A3o+Costeira)](https://git.io/typing-svg)  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Aboreto&size=30&duration=1000&pause=5000&color=000000&center=true&vCenter=true&width=1080&height=320&lines=Hi%2C+I'm+a+software+engineering+from+Braga%2C+Portugal.+My+work+mostly+focuses+in+the+area+of+web+development%2C+natural+language+processing+and+formal+methods.)](https://git.io/typing-svg)
 <!--
 **joaocosteira/joaocosteira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
