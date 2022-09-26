@@ -1,4 +1,4 @@
--  Portfolio:
-  * https://www.joaocosteira.com
+-  Portfolio:  
+   * https://www.joaocosteira.com
 - Link Tree:
   * https://www.costeira.xyz
