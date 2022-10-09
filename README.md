@@ -1,2 +1,2 @@
--  [Portfolio](https://www.joaocosteira.com)
+-  [Personal Website](https://www.joaocosteira.com)
 - [Link Tree](https://www.costeira.xyz)
